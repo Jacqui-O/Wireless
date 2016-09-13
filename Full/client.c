@@ -1,4 +1,6 @@
 /* Client = Mobile 1 or Mobile 2*/
+#include <stdlib.h>
+#include <string.h>
 #include <stdio.h>
 #include <errno.h>
 #include <ctype.h>
