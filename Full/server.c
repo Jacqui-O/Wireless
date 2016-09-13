@@ -1,4 +1,6 @@
 /* Server = Base Station 1 or Base Station 2 */
+#include <stdlib.h>
+#include <string.h>
 #include <stdio.h>
 #include <errno.h>
 #include <ctype.h>
